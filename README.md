@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi 贴纸er 👋
+* 🐱‍🏍我是南巷书生
+* 🔨 目前所做: 一个react即时通信UI组件库
+   - 技术栈：**React**，**scss**，**StyledComponents**
+* About me:
+   - 📫邮箱：394815057@qq.com
+   - 💒博客：[My_Blog](https://nanxiangscholar.github.io/)
+   - ✨CSDN: [CSDN](https://blog.csdn.net/qq_58459674?spm=1000.2115.3001.5343)
+> 
 <!--
 **Nanxiangscholar/Nanxiangscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
